@@ -7,6 +7,10 @@ If you find this interesting, you should [follow me on
 Twitter](https://twitter.com/copingbear) to learn about the other
 things I do.
 
+# Interpreter
+Modified functionality added by __@michalspano__.
+[Interpreter](https://github.com/michalspano/shpotify/blob/master/interpreter.md)
+
 ## Installation
 
 [Download and install](http://www.spotify.com/download) the Spotify

@@ -123,7 +123,7 @@ you!**
 
 ## Copyright and license
 
-Copyright (c) 2012–2022 [Harish Narayanan](https://harishnarayanan.org).
+Copyright (c) 2012–2023 [Harish Narayanan](https://harishnarayanan.org).
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -143,4 +143,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-[spotify-dev]: https://developer.spotify.com/my-applications/#!/applications/create
+[spotify-dev]: https://developer.spotify.com/dashboard/create
